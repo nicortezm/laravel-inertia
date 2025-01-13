@@ -28,7 +28,9 @@ npm i
 
 2. Generar .env copiando el .env.example
 
-3. Generar build del frontend
+3. Crear migración base de datos
+
+4. Generar build del frontend
 
 ```
 npm run build
@@ -36,7 +38,7 @@ npm run build
 
 en caso de estar en modo desarollo, se puede hacer un `npm run dev` y en una shell/terminal aparte
 
-4. Servir aplicación
+5. Servir aplicación
 
 ```
 php artisan serve
